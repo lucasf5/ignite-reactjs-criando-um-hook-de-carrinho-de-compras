@@ -47,7 +47,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$ https://github.com/tavareshenrique/ignite-reactjs-desafio-3
+$ git@github.com:lucasf5/ignite-reactjs-desafio-3.git
 ```
 
 ```bash
